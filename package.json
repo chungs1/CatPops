@@ -1,0 +1,11 @@
+{
+	"name": "RedditListen",
+	"version": "0.0.1",
+	"author": "Sophia",
+	"description": "A hack to map reddit",
+	"dependencies": {
+		"express":"latest",
+		"socket.io":"latest",
+		"handson-reddit": "latest"
+	}
+}
